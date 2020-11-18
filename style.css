@@ -1,0 +1,85 @@
+/* page settings */
+/* setting background for whole page to black */
+* {background-color: black !important;
+}
+/* setting font color for full page to white */
+* {
+    color:  grey !important;
+ }
+ h1 {
+     color: white !important;
+ }
+ h2 {
+    color: white !important;
+}
+h3 {
+    color: white !important;
+}
+h4 {
+    color: white !important;
+}
+h5 {
+    color: white !important;
+}
+h6 {
+    color: white !important;
+}
+ .sectiontag {
+    font-size: 1.5rem;
+    text-align: justify-left;
+ }
+
+.padding {
+    padding:40px;
+}
+
+/* Grey border */
+hr.new1 {
+    border-bottom: 1px solid grey;
+    justify-self: justify-right;
+  }
+  
+/* navbar */
+.custom-nav {
+    justify-content: space-between !important; 
+    padding: 5px 10px 5px 10 px !important;  
+
+}
+
+.maxwidth{
+max-width: 100% !important;
+}
+
+.buy-button {
+    background-color: #0068d1 !important;
+    padding: 4px 18px;
+    border-radius: 12px;
+    cursor: pointer;
+    outline:none;
+}
+
+
+/* section 1 - M1 */
+.big-button {
+    padding: 48px 98px;
+}
+    
+
+/* section 2 */
+.section2 {
+    padding-top: 15px;
+}
+
+/* section 18 */
+.fontcolor {
+    color: white !important;
+}
+
+/* section 22 */
+#fontblue {
+    color: rgb(18, 124, 229) !important
+}
+
+.nowrap {
+    white-space:nowrap;
+}
